@@ -1,10 +1,10 @@
 # DE_Technical_Test
 
-Hey there! I though it was easer to upload everything to a repository. I've tracked the time I spent on each test, with each folder there is a screenshot of the time spent.
+Hey there! I found it easier to upload everything onto a repository. I tracked the time spent on each test and included a screenshot of the time spent with each folder..
 
-## Time Tracking
+## Additional Comments
 
 ### Python Test:
-Most of my time went to getting the data and cleaning it. That's why I couldn't finish it on time.
+Getting and cleaning the data took most of my time, which caused me to miss the time deadline.
 
 Feel free to explore the code and test results. If you have any questions or suggestions, please don't hesitate to reach out.
