@@ -8,8 +8,8 @@ Hey there! I found it easier to upload everything onto a repository. I tracked t
 Getting and cleaning the data took most of my time, which caused me to miss the time deadline.
 
 I couldn't combine both datasets from:
-a)	European Central Bank. Statistical Datawarehouse. Exchange Rates. Daily frequency.  https://sdw.ecb.europa.eu/browse.do?node=9691296
-b)	Danmark Nationalbank. EXCHANGE RATES https://www.nationalbanken.dk/en/statistics/exchange_rates/pages/default.aspx
+- European Central Bank. Statistical Datawarehouse. Exchange Rates. Daily frequency.  https://sdw.ecb.europa.eu/browse.do?node=9691296
+- Danmark Nationalbank. EXCHANGE RATES https://www.nationalbanken.dk/en/statistics/exchange_rates/pages/default.aspx
 
 So I only took the data from Danmark National Bank. The CSV used is DNVALD.csv 
 
