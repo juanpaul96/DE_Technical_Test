@@ -1,6 +1,6 @@
 # DE_Technical_Test
 
-Hey there! I found it easier to upload everything onto a repository. I tracked the time spent on each test and included a screenshot of the time spent with each folder..
+Hey there! I found it easier to upload everything onto a repository. I tracked the time spent on each test and included a screenshot of the time spent with each folder.
 
 ## Additional Comments
 
